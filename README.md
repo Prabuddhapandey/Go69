@@ -1,2 +1,1 @@
-# Go69
-Go69 , 69 problems 96 solution , why 69 when u can 96 
+<iframe src="https://www.yeschat.ai/i/gpts-ZxWzhxpq-README-Generator" width="800" height="500" style="max-width: 100%;"></iframe>
